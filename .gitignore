@@ -1,3 +1,8 @@
+bin
+obj
+*.suo
+*.user
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
